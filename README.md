@@ -47,6 +47,12 @@ marp state-of-ai-2026.2.md --html --allow-local-files --pdf -o state-of-ai-2026.
 marp state-of-ai-2026.2.md --html --allow-local-files --pptx -o state-of-ai-2026.2.pptx
 ```
 
+## This Meeting Presentation
+
+1. I manually created the list of references in the [`references.md`](./references.md) file.
+2. I created a quick, initial draft of my thoughts and prompted Claude Opus 4.6 Extended ([`initial-draft.md`](./initial-draft.md)) for files.
+3. I gave the [`marp-agent-prompt.md`](./marp-agent-prompt.md) to Kimi K2.5 using OpenCode ([`opencode-Kimi-K2.5-session-transcript.md`](./opencode-Kimi-K2.5-session-transcript.md)).
+
 ## License
 
 MIT (see [LICENSE](./LICENSE)).
