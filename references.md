@@ -4,6 +4,7 @@
     + link: ["Harness engineering: leveraging Codex in an agent-first world"](https://openai.com/index/harness-engineering/)
 * "The Ralph Wiggum Loop"
     + link: ["The Ralph Playbook: A comprehensive guide to running autonomous AI coding loops"](https://claytonfarr.github.io/ralph-playbook/)
+        - link: ["Step-by-step guide to get Ralph working and shipping code"](https://x.com/ryancarson/article/2008548371712135632)
     + link: ["11 Tips For AI Coding With Ralph Wiggum"](https://www.aihero.dev/tips-for-ai-coding-with-ralph-wiggum)
     + link: ["Ralph, Running AI Coding Agents in a Loop. Seriously."](https://vibecode.medium.com/ralph-running-ai-coding-agents-in-a-loop-seriously-f8503a219da6)
     + GitHuib: [snarktank/ralph](https://github.com/snarktank/ralph)
@@ -21,7 +22,12 @@
 * AI-assisted software engineering
     + link: [X post](https://x.com/allenholub/status/2020938524699103445?s=20)
 * ["how to be a 100x engineer using ai"](https://x.com/rohit4verse/status/2020501497377968397?s=20)
-* "Heavy Unit Testing"
+* "Mark Dalgleish: Heavy Unit Testing"
     + link: [X post](https://x.com/markdalgleish/status/2019573000333586509?s=20)
-* "The Win of Agents"
+* "Jessie Frazelle: The Win of Agents"
     + link: [X post](https://x.com/jessfraz/status/2019722159720214822?s=20)
+* "ESR: Vibecoding (yolocoding) vs. Symbocoding (You and the AI are symbiotic)"
+    + link: [X post](https://x.com/esrtweet/status/2022062681159549273?s=20)
+* "Dave W Plummer: vibe code"
+    + link: [X post](https://x.com/davepl1968/status/2022034956604879335?s=20)
+* ["Spotify says its best developers haven’t written a line of code since December, thanks to AI"](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/?utm_source=dlvr.it&utm_medium=twitter)
